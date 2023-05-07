@@ -44,3 +44,5 @@ To use the Fourth interpreter, simply clone the repository, build the project, a
 -- Call the functions to push the 4 numbers and add them
 just_4_numbers
 add4 -- Stack: [10.0]
+
+This was an assignment for a Programming Language Design class at Washington State University. All credits go to Grant Williams for the instructions and requirements of this assignment.
